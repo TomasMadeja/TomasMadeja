@@ -1,16 +1,13 @@
-### Hi there 👋
+### Python, Elixir and Java developer
 
-<!--
-**TomasMadeja/TomasMadeja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WARNING -** Use the public repos carefully. Not all of them contain safe or production ready code. There may be outdated or outright unsecure past projects (usually marked as such in description or README), or a random compilation of scripts.  
 
-Here are some ideas to get you started:
+You can find some of the public projects i contributed to at:
+- <https://github.com/Trace-Share>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts & Stuff:
+
+- <t.mm.madeja@gmail.com>
+- <tomas.madeja@mail.muni.cz>
+- <https://www.linkedin.com/in/tomas-madeja/>
+
