@@ -7,6 +7,7 @@ You can find some of the public projects i contributed to at:
 
 Contacts & Stuff:
 
+- <tomas.madeja@protonmail.com>
 - <t.mm.madeja@gmail.com>
 - <tomas.madeja@mail.muni.cz>
 - <https://www.linkedin.com/in/tomas-madeja/>
